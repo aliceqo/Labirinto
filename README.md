@@ -6,4 +6,5 @@ Se você derrotar o inimigo, terá a chance de seguir adiante no labirinto. Por�
 precisando trilhar o caminho novamente.
 
 OBS:
+
 O arquivo: Labirinto.c3p abre o projeto no construct 3, no qual ja fiz o labirinto.
