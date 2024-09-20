@@ -5,4 +5,5 @@ você enfrentará o inimigo, com ambos os personagens exibidos em destaque, most
 Se você derrotar o inimigo, terá a chance de seguir adiante no labirinto. Porém, se perder, será transportado de volta ao início, 
 precisando trilhar o caminho novamente.
 
+OBS:
 O arquivo: Labirinto.c3p abre o projeto no construct 3, no qual ja fiz o labirinto.
