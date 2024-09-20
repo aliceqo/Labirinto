@@ -1,0 +1,7 @@
+A ideia do jogo é um labirinto, onde o jogador começa escolhendo seu personagem. Ao explorar os corredores, você inicia com armamentos básicos, mas conforme avança, 
+terá a oportunidade de coletar armas mais poderosas. 
+Em determinadas áreas, você encontrará inimigos para batalhar. Ao se aproximar deles, uma animação imersiva acontece, 
+como se você estivesse sendo transportado para uma nova sala dentro do próprio labirinto. Essa sala especial é o campo de batalha, com o cenário clássico de labirinto ao fundo. Ali, 
+você enfrentará o inimigo, com ambos os personagens exibidos em destaque, mostrando suas barras de vida. A batalha acontece nesse momento.
+Se você derrotar o inimigo, terá a chance de seguir adiante no labirinto. Porém, se perder, será transportado de volta ao início, 
+precisando trilhar o caminho novamente.
